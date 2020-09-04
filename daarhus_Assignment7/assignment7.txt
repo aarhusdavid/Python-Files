@@ -1,0 +1,10 @@
+I worked with:
+Emily Guggenhiem (Sophomore at Chapman)
+James Kistner (Sophomore at Chapman)
+Jeremy Anderson (Frosh at Chapman)
+
+Problems:
+I couldn't figure out how to maintain the whitespace in-between words in my decrypted and encrypted files. Also, my hp.txt would lose it's formating when put into my encrypted file. 
+
+I would like to use a late day for this assignment.
+This is my second late assignment of the semester. 
